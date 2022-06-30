@@ -1,6 +1,5 @@
-![App Screenshot](.github/cover.png)
+![Screenshot](cover.png)
 
-# Roteiro 1 - TABNET
+# Roteiro - TABNET e OpenDataSUS
 Projeto criado no contexto do workshop de utilização de dados do DataSUS.
 
-Abra o arquivo baixado no TABNET, apague as linhas indesejadas e salve como uma planilha XLS.
